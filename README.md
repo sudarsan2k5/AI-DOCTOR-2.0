@@ -30,6 +30,7 @@
    - Transcribed query
    - Doctor’s written advice
    - An audio player with spoken response
+<img width="1086" alt="image" src="https://github.com/user-attachments/assets/2ee84e73-bd66-43e5-821a-f5ac5b166790" />
 
 ---
 
