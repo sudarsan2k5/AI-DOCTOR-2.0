@@ -4,6 +4,11 @@
 
 ---
 
+## 🌟 TECHNICAL ARCHITECTURE
+<img width="1088" alt="image" src="https://github.com/user-attachments/assets/5c14181c-a053-4430-a368-675b24535c27" />
+
+
+
 ## 🌟 Features
 
 - 🎤 **Voice-Based Interaction** – Speak your symptoms or questions directly to the app.
